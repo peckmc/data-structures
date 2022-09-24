@@ -60,6 +60,4 @@ BinarySearchTreeMethods.depthFirstLog = function(callback) {
  * insert: O(n)
  * contains: O(n)
  * depthFirstLog: O(n)
- *
- *
  */
